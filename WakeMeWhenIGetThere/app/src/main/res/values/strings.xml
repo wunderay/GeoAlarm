@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Wake Me When I Get There</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Labels -->
+    <string name="label_add">Add Alarm</string>
+    <string name="label_view">View Alarm</string>
+    <string name="label_alarm"> AlarmName:</string>
+    <string name="label_street"> Street:</string>
+    <string name="label_city"> City:</string>
+    <string name="label_state"> State:</string>
+    <string name="label_zip"> Zipcode:</string>
+    <string name="label_distance"> Distance:</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_save">Save</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+
+    <!-- Hints -->
+    <string name="hint_alarm_name">Name</string>
+    <string name="hint_street">200 E Colfax Ave.</string>
+    <string name="hint_city">Denver</string>
+    <string name="hint_state">CO</string>
+    <string name="hint_zip">80203</string>
+    <string name="hint_distance">Ring when __ ft. away</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
